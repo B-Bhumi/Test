@@ -1833,7 +1833,7 @@ span.two-pt:before {
 	}
 	.lines-grid {
 		margin-left: 0;
-		z-index: 99999999
+		/* z-index: 99999999 */
 	}
 	.mobhead {
 		position: fixed;
